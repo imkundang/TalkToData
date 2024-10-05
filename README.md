@@ -25,11 +25,12 @@ Make sure you have the following installed on your local machine:
 ### Steps to Install
 
 1. Clone this repository:
+   git clone https://github.com/imkundang/TalkToData.git
     ```bash
     
     ```
 
-2. Install the required dependencies:
+3. Install the required dependencies:
     ```bash
     pip install streamlit
     ```
