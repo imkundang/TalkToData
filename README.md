@@ -1,4 +1,4 @@
-# Top 10 Funds by AUM Visualization with Streamlit
+# Interactive User Interface for Data Visualization with Streamlit
 
 ## Project Overview
 
