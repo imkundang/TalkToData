@@ -41,3 +41,11 @@ Once the dependencies are installed, you can run the Streamlit app with the foll
 
 ```bash
 streamlit run app.py
+
+![IMG_6077](https://github.com/user-attachments/assets/d752cb4c-e5c1-4254-b906-e49cddca12b6)
+![IMG_6076](https://github.com/user-attachments/assets/9445dd43-19ab-4e5d-90f3-6dedacecd921)
+![IMG_6075](https://github.com/user-attachments/assets/4b90a6f5-cc8a-4e37-8b79-db87106c6342)
+![IMG_6074](https://github.com/user-attachments/assets/355d2ebe-0c50-4ef6-80d5-1d423c749864)
+![IMG_6073](https://github.com/user-attachments/assets/42895bc1-d386-48af-8027-919a4e9cd870)
+![IMG_6072](https://github.com/user-attachments/assets/d838d23c-678a-441c-ae8e-95e05bad852d)
+
